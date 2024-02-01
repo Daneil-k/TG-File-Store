@@ -1,4 +1,4 @@
-pyrogram
+pyrogram==2.0.106
 Pyromod
 TgCrypto
 psycopg2-binary
